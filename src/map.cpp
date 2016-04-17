@@ -40,3 +40,22 @@ Map init_map(const char* file_path) {
     free(map_data);
     return map;
 }
+
+glm::vec2 get_random_spawn_location(Map map) {
+    int enemy_spawn = rand() % 8;
+    int number_of_enemy_spawns_seen = 0;
+    glm::vec2 last_unchosen_location;
+
+    for (int i = 0; i < map.width*map.height; i++) {
+        if (map.tile_data[i].type == 2) {
+            if (enemy_spawn == number_of_enemy_spawns_seen) {
+                return glm::vec2(map.tile_data[i].x, map.tile_data[i].y);
+            } else {
+                number_of_enemy_spawns_seen++;
+                last_unchosen_location = glm::vec2(map.tile_data[i].x, map.tile_data[i].y);
+           }
+        }
+    } 
+
+    return last_unchosen_location; // In case for some strange reason that random number generator doesn't work as intended, get something valid to return. I'm a very paranoid person :)
+}

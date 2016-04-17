@@ -11,7 +11,7 @@ static std::map <std::string, GLuint>  shaders;
 static std::map <std::string, Map>     maps;
 
 void init_resource_manager() {
-    set_resource_path("res\\");
+    set_resource_path("..\\res\\");
 }
 
 void load_texture(Texture texture, std::string name) {
