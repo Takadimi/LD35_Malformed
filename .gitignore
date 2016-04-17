@@ -1,0 +1,9 @@
+drmem.bat
+*.lib
+*.exp
+*.obj
+*.dll
+*.exe
+*.ilk
+*.pdb
+*.suo
