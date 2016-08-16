@@ -1,3 +1,5 @@
+[Ludum Dare Entry Page](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=21515)
+
 ***NOTICE***
 Make sure you run the game from inside of the 'bin' folder. The resource paths
 are all relative to it!
