@@ -1,5 +1,9 @@
 [Ludum Dare Entry Page](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=21515)
 
+![Screenshot 1](http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot0-1460942221.png)
+![Screenshot 2](http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot1-1460942221.png)
+![Screenshot 3](http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot2-1460942221.png)
+
 # NOTICE
 Make sure you run the game from inside of the 'bin' folder. The resource paths
 are all relative to it!
@@ -14,3 +18,4 @@ are all relative to it!
 * Points also go up by 10 for every second you're alive.
 * The aim of the game is to stay alive as long as possible, while racking
 * up points by killing the enemies!
+
