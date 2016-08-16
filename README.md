@@ -16,6 +16,6 @@ are all relative to it!
 * up points by killing the enemies!
 
 ### SCREENSHOTS:
-<img src="http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot0-1460942221.png" width="50" height="50" />
-<img src="http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot1-1460942221.png" width="50" height="50" />
-<img src="http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot2-1460942221.png" width="50" height="50" />
+<img src="http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot0-1460942221.png" width="350" height="350" />
+<img src="http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot1-1460942221.png" width="350" height="350" />
+<img src="http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot2-1460942221.png" width="350" height="350" />
