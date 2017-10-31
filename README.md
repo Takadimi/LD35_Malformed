@@ -14,6 +14,7 @@ are all relative to it!
 * Points also go up by 10 for every second you're alive.
 * The aim of the game is to stay alive as long as possible, while racking
 * up points by killing the enemies!
+* Be careful, this game is addictive!
 
 ### SCREENSHOTS:
 <img src="http://ludumdare.com/compo/wp-content/compo2/542293/21515-shot0-1460942221.png" width="400" height="300" /><br />
